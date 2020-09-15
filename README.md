@@ -29,7 +29,7 @@ func main() {
 	objIdStr := objectid.New().String()
 	fmt.Printf("%s\n", objIdStr)
 
-	objId, _ = objectid.Parse(objIdStr)
+	objId, _ := objectid.Parse(objIdStr)
 	fmt.Printf("%d-%d-%d-%d\n", objId.Timestamp(), objId.Machine(), objId.Pid(), objId.Increment())
 }
 ```
