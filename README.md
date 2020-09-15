@@ -2,7 +2,7 @@
 A package to generate a 12-bytes unique object identifier.
 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/jimdn/restful?style=flat-square)](https://goreportcard.com/report/github.com/jimdn/restful)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jimdn/objectid?style=flat-square)](https://goreportcard.com/report/github.com/jimdn/objectid)
 
 ## Installation
 
